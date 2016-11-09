@@ -8,5 +8,7 @@ public class Easy2payApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Easy2payApplication.class, args);
+
+
 	}
 }
